@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340329047750",
+    "project_id": "bandung-ramah-anak-bb75b",
+    "storage_bucket": "bandung-ramah-anak-bb75b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340329047750:android:d8611035dd44e24d4599c7",
+        "android_client_info": {
+          "package_name": "com.example.bandungramahanak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0nKYBCALFfM-Zgy6vRb3XtyInxv5qAxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

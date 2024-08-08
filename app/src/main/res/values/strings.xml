@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bandung Ramah Anak</string>
+    <string name="Fitur">Fitur - Fitur :</string>
+    <string name="Fasilitas">Fasilitas</string>
+    <string name="Aktivitas">Aktivitas</string>
+    <string name="tips">Tips</string>
+    <string name="tipsmengasuh">Video Tips Mengasuh Anak</string>
+    <string name="event">Event</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
